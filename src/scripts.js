@@ -1,3 +1,5 @@
+// Review: Requirements met
+
 const cards = document.querySelectorAll(".memory-card");
 
 let hasFlippedCard = false;

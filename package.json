@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "author": "",
   "license": "ISC",
+  "homepage":"https://Gugulethu-webdev.github.io/NewMemoryGame",
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "jasmine": "^3.5.0"
   }
 }
